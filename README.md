@@ -1,4 +1,4 @@
-# MarsPress PostType
+# MarsPress GraphQL Field
 ### Installation
 Require the composer package in your composer.json with `marspress/graphql-fields` with minimum `dev-main` OR run `composer require marspress/graphql-fields`
 
